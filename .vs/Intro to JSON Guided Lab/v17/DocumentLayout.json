@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Intro to JSON Guided Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48B6E5-EBB0-464D-A9F7-1EC6BD4471E5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\curse\\onedrive - ozarks technical community college\\c# programming\\intro to json guided lab\\consoleapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A48B6E5-EBB0-464D-A9F7-1EC6BD4471E5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48B6E5-EBB0-464D-A9F7-1EC6BD4471E5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\curse\\onedrive - ozarks technical community college\\c# programming\\intro to json guided lab\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A48B6E5-EBB0-464D-A9F7-1EC6BD4471E5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Intro to JSON Guided Lab\\ConsoleApp1\\Class2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class2.cs",
+              "ToolTip": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Intro to JSON Guided Lab\\ConsoleApp1\\Class2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:03:52.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Intro to JSON Guided Lab\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Intro to JSON Guided Lab\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:02:37.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
